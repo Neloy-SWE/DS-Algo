@@ -1,5 +1,3 @@
-# array fixed length
-
 # https://www.tutorialspoint.com/python_data_structure/python_arrays.htm
 
 from array import *
