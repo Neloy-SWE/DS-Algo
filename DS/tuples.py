@@ -22,3 +22,7 @@ print(f"slice: {tup3[1:4]}")
 print(f"specific element print: {tup2[2]}")
 print(tup6)
 print(type(tup7))
+
+print("Print tuple according to it's index:")
+for i in range(len(tup3)):
+    print(tup3[i])
